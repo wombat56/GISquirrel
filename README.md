@@ -1,4 +1,6 @@
 # GISquirrel
-GISquirrel allows you to view, edit and manage spatial data from Microsoft SQL Server or PostGIS in ArcGIS Desktop
+GISquirrel allows ArcGIS Desktop (Basic) to view, edit, import and manage spatial data in Microsoft SQL Server or PostGIS databases.
+
+Issues and requests welcome.
 
 Find out more at www.gisquirrel.com
